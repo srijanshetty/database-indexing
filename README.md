@@ -1,4 +1,4 @@
-# database-indexing
+# Index Strucutres
 
 > One repository to link them all
 
