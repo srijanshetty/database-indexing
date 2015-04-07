@@ -1,5 +1,8 @@
 # database-indexing
-Meta repository containing links to all the indexing structures I've implemented as a part of **CS618 : Searching and Indexing in Databases**.
+
+> One repository to link them all
+
+Metarepository with links to all the index structures I've implemented as a part of **CS618 : Searching and Indexing in Databases**.
 
 - [Random vs Sequential IO](https://github.com/srijanshetty/random-sequential-io)
 - [Quadtree](https://github.com/srijanshetty/node-quadtree)
