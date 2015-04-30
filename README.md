@@ -9,3 +9,4 @@ Metarepository with links to all the index structures I've implemented as a part
 - [B+-tree]()
 - [R-tree](https://github.com/srijanshetty/RTree)
 - [vp-tree](https://github.com/srijanshetty/vptree)
+- [va-file](https://github.com/srijanshetty/va-file)
